@@ -41,7 +41,7 @@ c_surprise=0
 c_angry=0
 c_frames=0
 
-path = "images123"
+path = "test_images"
 images = []
 classNames = []
 mylist = os.listdir(path)
